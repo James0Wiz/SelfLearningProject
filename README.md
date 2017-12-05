@@ -1,3 +1,3 @@
 # SelfLearningProject
 
-Learn and inspired by the online materials.
+Inspired and learning from Coding Train on youtube
